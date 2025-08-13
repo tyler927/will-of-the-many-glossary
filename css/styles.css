@@ -1,0 +1,168 @@
+* {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Garamond', 'Georgia', serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 60px;
+    background-color: #f5f5f5;
+}
+
+.page {
+    background-color: white;
+    padding: 0;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.header-section {
+    background-color: white;
+    padding: 40px 80px 0px 80px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    border-bottom: 2px solid #f0f0f0;
+}
+
+.content {
+    padding: 20px 80px 60px 80px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: normal;
+    color: #666;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: normal;
+    letter-spacing: 3px;
+    margin: 40px 0 30px 0;
+    padding-top: 20px;
+}
+
+.navigation {
+    text-align: center;
+    margin: 20px 0 0 0;
+    padding: 15px;
+    border-top: 1px solid #ddd;
+    background-color: white;
+}
+
+.navigation a {
+    color: #333;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    transition: color 0.3s ease;
+}
+
+.navigation a:hover {
+    color: #666;
+    text-decoration: underline;
+}
+
+.back-to-top {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.back-to-top a {
+    color: #999;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s ease;
+}
+
+.back-to-top a:hover {
+    color: #666;
+    text-decoration: underline;
+}
+
+.entry {
+    margin-bottom: 20px;
+}
+
+.term {
+    font-weight: bold;
+    display: inline;
+}
+
+.pronunciation {
+    font-style: italic;
+    display: inline;
+}
+
+.definition {
+    display: inline;
+    margin-left: 4px;
+}
+
+.page-number {
+    text-align: center;
+    color: #999;
+    font-size: 12px;
+    margin-top: 40px;
+}
+
+.section {
+    margin-bottom: 60px;
+    scroll-margin-top: 150px;
+}
+.navigation a.active {
+    text-decoration: underline;
+    color: #000;
+}
+
+/* Mobile responsive styles */
+@media (max-width: 768px) {
+    body {
+        padding: 15px;
+    }
+    
+    .header-section {
+        padding: 15px;
+    }
+    
+    .content {
+        padding: 15px 15px 30px 15px;
+    }
+    
+    .navigation {
+        margin: 15px 0 0 0;
+        padding: 10px;
+    }
+    
+    .navigation a {
+        margin: 0 8px;
+        font-size: 13px;
+        white-space: nowrap;
+    }
+    
+    h1 {
+        font-size: 15px;
+        margin-bottom: 10px;
+        letter-spacing: 1px;
+    }
+    
+    h2 {
+        font-size: 18px;
+        margin: 25px 0 15px 0;
+        letter-spacing: 2px;
+    }
+    
+    .entry {
+        margin-bottom: 12px;
+        line-height: 1.4;
+    }
+}
