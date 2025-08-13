@@ -168,3 +168,70 @@ h2 {
         line-height: 1.4;
     }
 }
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1a1a1a;
+        color: #e0e0e0;
+    }
+    
+    .page {
+        background-color: #2d2d2d;
+        box-shadow: 0 0 20px rgba(0,0,0,0.3);
+    }
+    
+    .header-section {
+        background-color: #2d2d2d;
+    }
+    
+    .navigation {
+        background-color: #2d2d2d;
+        border-top: 1px solid #444;
+        border-bottom: 2px solid #444;
+    }
+    
+    .navigation a {
+        color: #e0e0e0;
+    }
+    
+    .navigation a:hover {
+        color: #ccc;
+    }
+    
+    .navigation a.active {
+        color: #fff;
+    }
+    
+    h1 {
+        color: #aaa;
+    }
+    
+    h2 {
+        color: #e0e0e0;
+    }
+    
+    .back-to-top a {
+        color: #888;
+    }
+    
+    .back-to-top a:hover {
+        color: #aaa;
+    }
+    
+    .page-number {
+        color: #666;
+    }
+    
+    .term {
+        color: #e0e0e0;
+    }
+    
+    .pronunciation {
+        color: #ccc;
+    }
+    
+    .definition {
+        color: #e0e0e0;
+    }
+}
