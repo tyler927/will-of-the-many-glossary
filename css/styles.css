@@ -21,11 +21,7 @@ body {
 
 .header-section {
     background-color: white;
-    padding: 40px 80px 0px 80px;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    border-bottom: 2px solid #f0f0f0;
+    padding: 20px 80px 0px 80px;
 }
 
 .content {
@@ -48,14 +44,19 @@ h2 {
     letter-spacing: 3px;
     margin: 0px 0 30px 0;
     padding-top: 20px;
+    text-decoration: underline;
 }
 
 .navigation {
     text-align: center;
-    margin: 20px 0 0 0;
+    margin: 0;
     padding: 15px;
     border-top: 1px solid #ddd;
+    border-bottom: 2px solid #f0f0f0;
     background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 
 .navigation a {
@@ -159,6 +160,7 @@ h2 {
         font-size: 18px;
         margin: 0px 0 15px 0;
         letter-spacing: 2px;
+        text-decoration: underline;
     }
     
     .entry {
