@@ -3,52 +3,79 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Will of the Many - Reference Guide</title>
-    
+    <title>Hierarchy Series - Reference Guides</title>
+
     <!-- iOS Web App Meta Tags -->
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <meta name="theme-color" content="#f5f5f5" media="(prefers-color-scheme: light)">
     <meta name="theme-color" content="#1a1a1a" media="(prefers-color-scheme: dark)">
-    
+
     <link rel="stylesheet" href="css/styles.css">
+    <style>
+        .landing-container {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+
+        .landing-title {
+            font-size: 2.5rem;
+            margin-bottom: 3rem;
+            text-align: center;
+        }
+
+        .book-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            width: 100%;
+            max-width: 400px;
+        }
+
+        .book-button {
+            display: block;
+            padding: 1.5rem 2rem;
+            background: var(--bg-color);
+            color: var(--text-color);
+            text-decoration: none;
+            border: 2px solid var(--border-color);
+            border-radius: 8px;
+            font-size: 1.25rem;
+            font-weight: 500;
+            text-align: center;
+            transition: all 0.2s ease;
+        }
+
+        .book-button:hover {
+            background: var(--hover-bg);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        @media (max-width: 768px) {
+            .landing-title {
+                font-size: 2rem;
+            }
+
+            .book-button {
+                font-size: 1.1rem;
+                padding: 1.25rem 1.5rem;
+            }
+        }
+    </style>
 </head>
-<body id="top">
-    <div class="page">
-        <div class="header-section">
-            <h1>The Will of the Many</h1>
-        </div>
-        
-        <nav class="navigation">
-            <a href="#characters" class="nav-link">CHARACTERS</a>
-            <a href="#glossary" class="nav-link">GLOSSARY</a>
-            <a href="#locations" class="nav-link">LOCATIONS</a>
-        </nav>
-        
-        <div class="content">
-            <div class="section" id="characters">
-                <h2>MAJOR CHARACTERS</h2>
-            </div>
-        
-            <div class="back-to-top">
-                <a href="#top">↑ Back to top</a>
-            </div>
-        
-            <div class="section" id="glossary">
-                <h2>GLOSSARY</h2>
-            </div>
-        
-            <div class="back-to-top">
-                <a href="#top">↑ Back to top</a>
-            </div>
-        
-            <div class="section" id="locations">
-                <h2>LOCATIONS</h2>
-            </div>
+<body>
+    <div class="landing-container">
+        <h1 class="landing-title">Hierarchy Series<br>Reference Guides</h1>
+
+        <div class="book-buttons">
+            <a href="will-of-the-many.html" class="book-button">The Will of the Many</a>
+            <a href="strength-of-the-few.html" class="book-button">The Strength of the Few</a>
         </div>
     </div>
-    
-    <script src="js/data-loader.js"></script>
-    <script src="js/navigation.js"></script>
 </body>
 </html>

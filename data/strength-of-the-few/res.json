@@ -1,0 +1,546 @@
+{
+  "characters": [
+    {
+      "term": "Advenius Claudius",
+      "pronunciation": "ahd-VEN-ee-us CLAW-dee-us",
+      "definition": "Father of Aequa. Governance senator."
+    },
+    {
+      "term": "Aemilius Volenis",
+      "pronunciation": "ai-MEE-lee-oos voh-LEN-iss",
+      "title": "Quintus",
+      "definition": "Father of Belli, and the proconsul in Sytrece."
+    },
+    {
+      "term": "Aequa Claudius",
+      "pronunciation": "EE-kwah CLAW-dee-us",
+      "definition": "Daughter of Advenius. Attended the Academy with Vis."
+    },
+    {
+      "term": "Amercus Decimus",
+      "pronunciation": "ah-MEHR-koos DEK-ee-mus",
+      "title": "Magnus Tertius",
+      "definition": "Father of Iro"
+    },
+    {
+      "term": "Ascenia",
+      "pronunciation": "ash-EN-ee-a",
+      "definition": "Septimus in charge of the stables at the Academy."
+    },
+    {
+      "term": "Atrox",
+      "pronunciation": "AH-troks",
+      "title": "Matron",
+      "definition": "Woman in charge of the orphanage at Letens."
+    },
+    {
+      "term": "Atticus",
+      "pronunciation": "AHT-ik-us",
+      "definition": "Attended the Academy with Vis."
+    },
+    {
+      "term": "Belli Volenis",
+      "pronunciation": "BEH-lee voh-LEN-iss",
+      "definition": "Attended the Academy with Vis."
+    },
+    {
+      "term": "Caeror Telimus",
+      "pronunciation": "SEE-roar TELL-ee-muss",
+      "definition": "Brother to Ulciscor. Killed during the Iudicium at the Academy several years ago."
+    },
+    {
+      "term": "Callidus Ericius",
+      "pronunciation": "CAHL-id-us er-EE-see-us",
+      "definition": "Vis's friend from the Academy."
+    },
+    {
+      "term": "Carinza",
+      "pronunciation": "cah-RIN-zah",
+      "altTerm": "Cari",
+      "altPronunciation": "CAH-ree",
+      "definition": "Vis's younger sister, princess of Suus."
+    },
+    {
+      "term": "Cristoval",
+      "pronunciation": "KRIS-toh-vahl",
+      "title": "King",
+      "definition": "Vis's father, king of Suus."
+    },
+    {
+      "term": "Diago",
+      "pronunciation": "dee-AH-go",
+      "definition": "Vis's birth name, and also the name he gives to the alupi he saved as a pup on Solivagus."
+    },
+    {
+      "term": "Dultatis",
+      "pronunciation": "dool-TAH-tis",
+      "title": "Praeceptor",
+      "definition": "Teacher in charge of Class Six at the Academy."
+    },
+    {
+      "term": "Eidhin Breac",
+      "pronunciation": "EYE-din BRAK",
+      "definition": "Vis's friend from the Academy."
+    },
+    {
+      "term": "Ellanher",
+      "pronunciation": "EL-an-her",
+      "definition": "Woman in charge of the fights at the Letens Theatre."
+    },
+    {
+      "term": "Emissa Corenius",
+      "pronunciation": "em-EE-sah kor-EN-ee-us",
+      "definition": "Attended the Academy with Vis. Romantically involved with him during their time there."
+    },
+    {
+      "term": "Ericius",
+      "pronunciation": "eh-REE-kee-oos",
+      "title": "Magnus Tertius",
+      "definition": "Censor of the Republic, and father of Callidus and Livia."
+    },
+    {
+      "term": "Estevan",
+      "pronunciation": "ESS-she-vahn",
+      "definition": "Also known as Melior, leader of the Anguis. Former advisor to King Cristoval, and former tutor to Vis."
+    },
+    {
+      "term": "Exesius",
+      "pronunciation": "eks-EE-see-us",
+      "title": "Princeps",
+      "definition": "Princeps of Military."
+    },
+    {
+      "term": "Fadrique",
+      "pronunciation": "fah-DREE-kay",
+      "definition": "Former advisor to King Cristoval, and former tutor of Vis's. Current steward of Suus under the Hierarchy."
+    },
+    {
+      "term": "Felix",
+      "pronunciation": "FELL-ik",
+      "definition": "Attended the Academy with Vis."
+    },
+    {
+      "term": "Hrolf",
+      "pronunciation": "ROLF",
+      "definition": "The Septimus in charge of Letens Prison, under whom Vis was once employed."
+    },
+    {
+      "term": "Ianix",
+      "pronunciation": "YAN-iks",
+      "definition": "Attended the Academy with Vis."
+    },
+    {
+      "term": "Indol Quiscil",
+      "pronunciation": "IN-dole KEY-skil",
+      "definition": "Attended the Academy with Vis. Son of Dimidius Quiscil of Military."
+    },
+    {
+      "term": "Iro Decimus",
+      "pronunciation": "EYE-roe DEK-ee-mus",
+      "definition": "Attended the Academy with Vis. Younger sister killed during the attack on the naumachia."
+    },
+    {
+      "term": "Kadmos",
+      "pronunciation": "KAHD-moss",
+      "definition": "Dispensator in charge of running Villa Telimus. Former head of the Azriat in Sytrece."
+    },
+    {
+      "term": "Lanistia Scipio",
+      "pronunciation": "lah-nis-TEE-ah SKIP-ee-oh",
+      "definition": "Tutor to Vis during his time at Villa Telimus. Assisting Ulciscor in his search to find the truth about Caeror's death."
+    },
+    {
+      "term": "Laurentius",
+      "pronunciation": "low-REN-tee-oos",
+      "title": "Magnus Quartus",
+      "definition": "the Senate-ratified leader of Military's forces in Caten."
+    },
+    {
+      "term": "Livia Ericius",
+      "pronunciation": "LEE-vee-ah eh-REE-kee-oos",
+      "definition": "Sister of Callidus and daughter of Magnus Tertius Ericius."
+    },
+    {
+      "term": "Manius",
+      "pronunciation": "MAH-nee-us",
+      "title": "Proconsul",
+      "definition": "Catenan in charge of the Tensian province."
+    },
+    {
+      "term": "Marcellus",
+      "pronunciation": "mar-KEL-us",
+      "definition": "Attended the Academy with Vis."
+    },
+    {
+      "term": "Marcus Carcius",
+      "pronunciation": "MAR-koos KAR-see-us",
+      "definition": "Assistant to Veridius at the Academy."
+    },
+    {
+      "term": "Nequias",
+      "pronunciation": "neh-KEY-us",
+      "title": "Praeceptor",
+      "definition": "Teacher in charge of Class Three at the Academy."
+    },
+    {
+      "term": "Ostius",
+      "pronunciation": "OSS-tee-oos",
+      "definition": "mysterious ally of the Anguis, who can travel between Res and Luceum."
+    },
+    {
+      "term": "Prav",
+      "pronunciation": "PRAHV",
+      "definition": "Attended the Academy with Vis."
+    },
+    {
+      "term": "Quiscil",
+      "pronunciation": "KEY-skil",
+      "title": "Magnus Dimidius",
+      "definition": "Indol's father."
+    },
+    {
+      "term": "Quaestor",
+      "pronunciation": "KWAI-stor",
+      "definition": "elderly man who tests Vis' blood, and conducts an unusual interview of him prior to his Governance Placement test."
+    },
+    {
+      "term": "Redivius",
+      "pronunciation": "reh-DEE-vee-oos",
+      "title": "Magnus Quartus",
+      "definition": "One of the Magnus Quartii vying for the position of Military's Princeps."
+    },
+    {
+      "term": "Relucia Telimus",
+      "pronunciation": "reh-loo-SEE-ah TELL-ee-muss",
+      "definition": "Ulciscor's wife. Anguis spy."
+    },
+    {
+      "term": "Scitus",
+      "pronunciation": "SKEE-tus",
+      "title": "Praeceptor",
+      "definition": "Teacher in charge of Class Four at the Academy."
+    },
+    {
+      "term": "Sianus",
+      "pronunciation": "see-AHN-us",
+      "definition": "Attended the Academy with Vis."
+    },
+    {
+      "term": "Taedia",
+      "pronunciation": "TAH-dee-ah",
+      "title": "Praeceptor",
+      "definition": "Teacher in charge of Class Five at the Academy."
+    },
+    {
+      "term": "Ulciscor Telimus",
+      "pronunciation": "ull-KEY-scor TELL-ee-muss",
+      "definition": "Vis's adoptive father. Magnus Quintus in Military."
+    },
+    {
+      "term": "Ulnius Filo",
+      "pronunciation": "ull-NIGH-us FEEL-oh",
+      "definition": "Physician at the Academy."
+    },
+    {
+      "term": "Veridius Julii",
+      "pronunciation": "ver-id-EE-us JOOL-ee-eye",
+      "definition": "The Principalis, in charge of the Academy."
+    },
+    {
+      "term": "Vis Telimus Catenicus",
+      "pronunciation": "VISS TELL-ee-muss cah-TEN-ee-cuss",
+      "definition": "The name chosen by Diago after he fled Suus. Added to after his adoption by Ulciscor Telimus, and then again by the Senate after his heroics at the naumachia."
+    },
+    {
+      "term": "Ysabel",
+      "pronunciation": "EE-sah-bel",
+      "definition": "Vis's older sister, princess of Suus."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Alupi",
+      "pronunciation": "AH-loo-pie",
+      "definition": "Massive, intelligent wolf-like creatures indigenous to Solivagus."
+    },
+    {
+      "term": "Anchoring point",
+      "definition": "Stone monoliths used as infrastructure for Transvects."
+    },
+    {
+      "term": "Anguis",
+      "pronunciation": "AN-gwiss",
+      "definition": "The group continuing to rebel against the Hierarchy."
+    },
+    {
+      "term": "Arventis",
+      "pronunciation": "are-VEN-tiss",
+      "definition": "God of childbirth, prophecy, and luck."
+    },
+    {
+      "term": "Aurora Columnae",
+      "pronunciation": "ow-ROAR-ah COLE-um-nigh",
+      "definition": "The pre-Cataclysm devices which enable people to cede Will."
+    },
+    {
+      "term": "Bibliotheca",
+      "pronunciation": "bib-lee-oh-THEE-kah",
+      "definition": "Library."
+    },
+    {
+      "term": "Bireme",
+      "definition": "A military ship with two decks of oars."
+    },
+    {
+      "term": "Birthright",
+      "definition": "The set of Catenan laws designed to \"honour life.\""
+    },
+    {
+      "term": "Cede",
+      "definition": "The act, in the Hierarchy, of giving half your Will to someone ranked directly above you."
+    },
+    {
+      "term": "Censor",
+      "definition": "The Governance senator in charge of determining who can be nominated for the Senate."
+    },
+    {
+      "term": "Curia Doctrina",
+      "pronunciation": "COO-ree-ah DOC-treen-ah",
+      "definition": "The main hall of the Academy."
+    },
+    {
+      "term": "Ddram cyfraith",
+      "pronunciation": "thrahm KUH-vrythe",
+      "definition": "The \"Right to Death,\" a Cymrian legal and philosophical code that honours death as a sacrifice."
+    },
+    {
+      "term": "Ferias",
+      "pronunciation": "FAIR-ee-us",
+      "definition": "God of keys, doors, livestock, and ports."
+    },
+    {
+      "term": "Foundation",
+      "definition": "A popular strategic game in the Hierarchy, played with red and white triangular stones."
+    },
+    {
+      "term": "Gate",
+      "definition": "The name used to refer to the device which copied Vis into Obiteum and Luceum."
+    },
+    {
+      "term": "Iudicium",
+      "pronunciation": "you-DISS-ee-um",
+      "definition": "The final test at the Academy for Class Three students, used to determine their rankings."
+    },
+    {
+      "term": "Jovan",
+      "pronunciation": "YO-vahn",
+      "definition": "God of sky and thunder, the king of the gods."
+    },
+    {
+      "term": "Mira",
+      "pronunciation": "MEER-ah",
+      "definition": "God of war and fighters, agricultural guardian."
+    },
+    {
+      "term": "Naumachia",
+      "pronunciation": "now-MAH-key-ah",
+      "definition": "Gladiatorial battle taking place on ships, on an artificial lake. Participants are called Naumchiarii."
+    },
+    {
+      "term": "Ocaria",
+      "pronunciation": "oh-KAH-ree-ah",
+      "definition": "Goddess of rivers."
+    },
+    {
+      "term": "Pletuna",
+      "pronunciation": "pleh-TOON-ah",
+      "definition": "Goddess of autumn and the harvest."
+    },
+    {
+      "term": "Praeceptor",
+      "pronunciation": "PRAY-kep-tor",
+      "definition": "Teacher status in the Academy."
+    },
+    {
+      "term": "Praetorium",
+      "pronunciation": "pray-TOR-ee-um",
+      "definition": "Building housing the teachers' offices at the Academy."
+    },
+    {
+      "term": "Quadrum",
+      "pronunciation": "KWAD-rum",
+      "definition": "The large, central courtyard of the Academy."
+    },
+    {
+      "term": "Razor",
+      "definition": "The name for an obsidian blade forged by a Catenan officer."
+    },
+    {
+      "term": "Sere",
+      "pronunciation": "SEH-ray",
+      "definition": "Goddess of spring, flowers, and fertility."
+    },
+    {
+      "term": "Silencium",
+      "pronunciation": "sigh-LEN-key-um",
+      "definition": "Binding legal agreement in the Hierarchy to not speak of something."
+    },
+    {
+      "term": "Transvect",
+      "pronunciation": "TRANS-vekt",
+      "definition": "Massive Will-powered transport devices."
+    },
+    {
+      "term": "Vitaerium",
+      "pronunciation": "vit-EYE-ree-um",
+      "definition": "Devices that can force-feed Will into any body or substance capable of decay."
+    },
+    {
+      "term": "Vorcian",
+      "pronunciation": "VOR-key-an",
+      "definition": "God of volcanoes, deserts, the forge, and hard work."
+    }
+  ],
+  "locations": [
+    {
+      "term": "Agerus",
+      "pronunciation": "ah-GAIR-us",
+      "definition": "The region near Caten where the Necropolis is located."
+    },
+    {
+      "term": "Alta Semita",
+      "pronunciation": "AHL-tah sem-EE-tah",
+      "definition": "A district of Caten."
+    },
+    {
+      "term": "Aquiria",
+      "pronunciation": "ah-KEER-ee-ah",
+      "definition": "Small country bordering Suus. The country in which Vis officially claims he was born."
+    },
+    {
+      "term": "Caten",
+      "pronunciation": "cah-TEN",
+      "definition": "The capital of Deditia and of the Catenan Republic, considered to be the centre of the known world."
+    },
+    {
+      "term": "Catenan Academy",
+      "pronunciation": "cah-TEN-an",
+      "definition": "The Academy which Vis attends, located on the island of Solivagus."
+    },
+    {
+      "term": "Catenan Arena",
+      "pronunciation": "cah-TEN-an",
+      "definition": "The great stadium in Caten which can house up to one hundred thousand people."
+    },
+    {
+      "term": "Catenan Republic",
+      "pronunciation": "cah-TEN-an",
+      "definition": "The name used to describe any region governed by Caten's laws."
+    },
+    {
+      "term": "Cymr",
+      "pronunciation": "KYE-meer",
+      "definition": "Country to the south-west of Caten."
+    },
+    {
+      "term": "Deditia",
+      "pronunciation": "deh-DEE-chee-ah",
+      "definition": "The region immediately surrounding Caten."
+    },
+    {
+      "term": "Esquilae",
+      "pronunciation": "ESS-kil-igh",
+      "definition": "A district of Caten."
+    },
+    {
+      "term": "Jatiere",
+      "pronunciation": "YAH-tee-air",
+      "definition": "Country whose treaty restricts Catenan ambassadors there from using Will."
+    },
+    {
+      "term": "Letens",
+      "pronunciation": "leh-TENS",
+      "definition": "Capital of Tensia."
+    },
+    {
+      "term": "Letens Prison",
+      "pronunciation": "leh-TENS",
+      "definition": "The prison in which Vis once worked."
+    },
+    {
+      "term": "Lordan's Column",
+      "pronunciation": "lor-DAHN",
+      "definition": "A famous landmark in Caten."
+    },
+    {
+      "term": "Luceum",
+      "pronunciation": "loo-KEY-um",
+      "definition": "A mysterious place, usually referenced alongside Res and Obiteum."
+    },
+    {
+      "term": "Lyceria",
+      "pronunciation": "ligh-SEER-ee-ah",
+      "definition": "A Catenan territory."
+    },
+    {
+      "term": "Masen",
+      "pronunciation": "MAH-sen",
+      "definition": "A Catenan territory."
+    },
+    {
+      "term": "Necropolis",
+      "pronunciation": "neh-KROP-oh-lis",
+      "definition": "A large area dedicated to the Catenan dead, located in the Agerus region."
+    },
+    {
+      "term": "Nyripk",
+      "pronunciation": "NEER-ik",
+      "definition": "Desert-locked country far to the north-east."
+    },
+    {
+      "term": "Obiteum",
+      "pronunciation": "oh-bit-EE-um",
+      "definition": "A mysterious place, usually referenced alongside Res and Luceum."
+    },
+    {
+      "term": "Praedium",
+      "pronunciation": "PRIGH-dee-um",
+      "definition": "District of Caten."
+    },
+    {
+      "term": "Sea of Quus",
+      "pronunciation": "COOS",
+      "definition": "The sea on which both Solivagus and Caten are located."
+    },
+    {
+      "term": "Res",
+      "pronunciation": "REZ",
+      "definition": "A mysterious place, usually referenced alongside Obiteum and Luceum."
+    },
+    {
+      "term": "Sarcinia",
+      "pronunciation": "sar-KIN-ee-ah",
+      "definition": "District of Caten."
+    },
+    {
+      "term": "Solivagus",
+      "pronunciation": "soh-liv-AH-gus",
+      "definition": "Island on which the Academy is located."
+    },
+    {
+      "term": "Suus",
+      "pronunciation": "SOOS",
+      "definition": "Vis's island homeland."
+    },
+    {
+      "term": "Sytrece",
+      "pronunciation": "sit-REES",
+      "definition": "Country to the east of Deditia."
+    },
+    {
+      "term": "Tensia",
+      "pronunciation": "TEN-see-ah",
+      "definition": "Southernmost populated country in the known world."
+    }
+  ]
+}

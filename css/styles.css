@@ -120,9 +120,48 @@ h2 {
     margin-bottom: 40px;
     scroll-margin-top: 150px;
 }
+
 .navigation a.active {
     text-decoration: underline;
     color: #000;
+}
+
+.world-links {
+    text-align: center;
+    margin: 25px auto 30px auto;
+    padding: 15px 0;
+    background-color: #333;
+    max-width: 500px;
+}
+
+.world-links a:link,
+.world-links a:visited,
+.world-links a:active {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    transition: color 0.3s ease;
+}
+
+.world-links a:hover {
+    color: #ccc;
+    text-decoration: none;
+}
+
+.world-subsection {
+    margin-bottom: 40px;
+    scroll-margin-top: 100px;
+}
+
+.world-subsection h3 {
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin: 30px 0 20px 0;
+    color: #444;
+    text-transform: uppercase;
 }
 
 /* Mobile responsive styles */
@@ -167,6 +206,23 @@ h2 {
         margin-bottom: 12px;
         line-height: 1.4;
     }
+
+    .world-links {
+        margin: 15px 0 20px 0;
+    }
+
+    .world-links a:link,
+    .world-links a:visited,
+    .world-links a:active {
+        margin: 0 10px;
+        font-size: 13px;
+    }
+
+    .world-subsection h3 {
+        font-size: 16px;
+        margin: 20px 0 15px 0;
+        letter-spacing: 1.5px;
+    }
 }
 
 /* Dark mode styles */
@@ -202,7 +258,25 @@ h2 {
     .navigation a.active {
         color: #fff;
     }
-    
+
+    .world-links {
+        background-color: #444;
+    }
+
+    .world-links a:link,
+    .world-links a:visited,
+    .world-links a:active {
+        color: #fff;
+    }
+
+    .world-links a:hover {
+        color: #ddd;
+    }
+
+    .world-subsection h3 {
+        color: #aaa;
+    }
+
     h1 {
         color: #aaa;
     }

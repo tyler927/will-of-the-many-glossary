@@ -1,0 +1,216 @@
+{
+  "characters": [
+    {
+      "term": "Aodh",
+      "pronunciation": "AY",
+      "definition": "A warrior assisting the druid Cian on the journey to Caer Aras."
+    },
+    {
+      "term": "Artán",
+      "pronunciation": "AHR-tawn",
+      "definition": "The former Champion of King Rónán."
+    },
+    {
+      "term": "Cian",
+      "pronunciation": "KEE-an",
+      "definition": "A druid assigned to King Fiachra's lands. Assists Deaglán after he comes through the Gate."
+    },
+    {
+      "term": "Conor",
+      "pronunciation": "CON-ur",
+      "definition": "A student at Loch Traenala."
+    },
+    {
+      "term": "Deaglán",
+      "pronunciation": "DEG-lawn",
+      "definition": "The name given to Vis by Gráinne and her family, and which he adopts."
+    },
+    {
+      "term": "Donnán",
+      "pronunciation": "DOH-nawn",
+      "definition": "Senior druid to King Rónán."
+    },
+    {
+      "term": "Fiachra",
+      "pronunciation": "FEE-uh-kra",
+      "title": "King",
+      "definition": "Rival to King Rónán. Has struck a deal with the Grove to give them unfettered access to Solivagus."
+    },
+    {
+      "term": "Fearghus",
+      "pronunciation": "FAIR-uh-gus",
+      "definition": "A student at Loch Traenala."
+    },
+    {
+      "term": "Gallchobhar",
+      "pronunciation": "GAHL-kho-var",
+      "definition": "King Rónán's Champion."
+    },
+    {
+      "term": "Gráinne",
+      "pronunciation": "GRAWN-ya",
+      "definition": "The woman who takes in Deaglán. Mother to Róisín and Tadgh. Daughter to Onchú."
+    },
+    {
+      "term": "Kegan",
+      "pronunciation": "KEE-gan",
+      "definition": "A warrior assisting the druid Cian on the journey to Caer Aras."
+    },
+    {
+      "term": "Leathf hear",
+      "pronunciation": "LAH-ar",
+      "definition": "The derogatory nickname given to Deaglán by Gallchobhar."
+    },
+    {
+      "term": "Lir",
+      "pronunciation": "LEER",
+      "definition": "The druid who takes Vis to Caer Aras."
+    },
+    {
+      "term": "Miach",
+      "pronunciation": "MEE-ukh",
+      "definition": "A student at Loch Traenala."
+    },
+    {
+      "term": "Neasa",
+      "pronunciation": "NASS-ah",
+      "definition": "The captain of the ship to Loch Traenala."
+    },
+    {
+      "term": "Nuadha",
+      "pronunciation": "NOO-uh-ya",
+      "title": "King",
+      "definition": "The king of a region neighbouring King Rónán's lands."
+    },
+    {
+      "term": "Onchú",
+      "pronunciation": "UN-khoo",
+      "definition": "Father of Gráinne, grandfather to Róisín and Tadgh."
+    },
+    {
+      "term": "Pádraig",
+      "pronunciation": "PAW-rik",
+      "definition": "The instructor at Loch Traenala."
+    },
+    {
+      "term": "Rian",
+      "pronunciation": "REE-an",
+      "definition": "A younger student at Loch Traenala."
+    },
+    {
+      "term": "Róisín",
+      "pronunciation": "ROH-sheen",
+      "definition": "Daughter of Gráinne."
+    },
+    {
+      "term": "Rónán",
+      "pronunciation": "ROH-nawn",
+      "title": "King",
+      "definition": "King of the lands to which Deaglán flees. Father to Tara."
+    },
+    {
+      "term": "Ruarc",
+      "pronunciation": "ROO-ark",
+      "definition": "A druid who some believe is exerting undue influence over the Grove, and appears to want Vis dead."
+    },
+    {
+      "term": "Seanna",
+      "pronunciation": "SHAW-na",
+      "definition": "A student at Loch Traenala."
+    },
+    {
+      "term": "Tadgh",
+      "pronunciation": "TIGE",
+      "definition": "Son of Gráinne."
+    },
+    {
+      "term": "Tara",
+      "pronunciation": "TAH-ra",
+      "definition": "Daughter of King Rónán. A student at Loch Traenala."
+    },
+    {
+      "term": "Uallach",
+      "pronunciation": "OO-uh-lukh",
+      "definition": "A druid from King Nuadha's lands."
+    },
+    {
+      "term": "Úrthuile",
+      "pronunciation": "OOR-huluh",
+      "title": "High King",
+      "definition": "The dying High King who rules over Rónán, Fiachra, Nuadha, and others."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Caer",
+      "pronunciation": "KEER",
+      "definition": "Stronghold."
+    },
+    {
+      "term": "Grove, The",
+      "definition": "The High Council of the druids."
+    },
+    {
+      "term": "Dia Domhain",
+      "pronunciation": "DEE-uh DOH-win",
+      "definition": "The god of deep places."
+    },
+    {
+      "term": "Dia Fómhar",
+      "pronunciation": "DEE-uh FOH-var",
+      "definition": "The god of the harvest."
+    },
+    {
+      "term": "Dia Oiche",
+      "pronunciation": "DEE-uh EE-ha",
+      "definition": "The god of the night."
+    },
+    {
+      "term": "Dia Saol",
+      "pronunciation": "DEE-uh SAY-ol",
+      "definition": "The god of life."
+    },
+    {
+      "term": "Draoi",
+      "pronunciation": "DREE",
+      "definition": "The title used by druids."
+    },
+    {
+      "term": "Loch",
+      "pronunciation": "lokh",
+      "definition": "Lake."
+    },
+    {
+      "term": "Nasceann",
+      "pronunciation": "NASK-an",
+      "definition": "The word used for a warrior able to use Will."
+    }
+  ],
+  "locations": [
+    {
+      "term": "Caer Áras",
+      "pronunciation": "AW-rus",
+      "definition": "King Rónán's stronghold."
+    },
+    {
+      "term": "Didean",
+      "pronunciation": "DEE-jan",
+      "definition": "A village and its surrounding region, in which Onchu's farm is located."
+    },
+    {
+      "term": "Fornax",
+      "pronunciation": "FOR-naks",
+      "definition": "The testing grounds for both draoi and nasceann."
+    },
+    {
+      "term": "Tempeall albios",
+      "pronunciation": "TEM-pell AL-bee-oss",
+      "definition": "A mysterious white temple in the mountains."
+    },
+    {
+      "term": "Loch Traenala",
+      "pronunciation": "TRAY-nuh-luh",
+      "definition": "The location of the training school for King Rónán's elite warriors."
+    }
+  ]
+}

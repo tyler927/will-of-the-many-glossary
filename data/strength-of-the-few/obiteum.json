@@ -1,0 +1,142 @@
+{
+  "characters": [
+    {
+      "term": "Ahmose",
+      "pronunciation": "AH-mohs",
+      "definition": "The iunctus who becomes friends with Vis in Duat."
+    },
+    {
+      "term": "Betrest",
+      "pronunciation": "BET-rest",
+      "definition": "One of the upper class of Duat."
+    },
+    {
+      "term": "Caeror",
+      "pronunciation": "SEE-roar",
+      "definition": "See Res character guide."
+    },
+    {
+      "term": "Djedef",
+      "pronunciation": "JEH-def",
+      "definition": "Iunctus who is questioned by Caeror."
+    },
+    {
+      "term": "Ka",
+      "pronunciation": "KAH",
+      "definition": "The man in control of Duat."
+    },
+    {
+      "term": "Kiya",
+      "pronunciation": "KEE-yah",
+      "definition": "Child iunctus who appears to obey Netiqret."
+    },
+    {
+      "term": "Netiqret",
+      "pronunciation": "neh-TEE-kret",
+      "definition": "A woman who assists Vis in Duat."
+    },
+    {
+      "term": "Nofret",
+      "pronunciation": "NOH-fret",
+      "definition": "Young girl in Qabr."
+    },
+    {
+      "term": "Siamun",
+      "pronunciation": "SEE-ah-moon",
+      "definition": "The native name chosen by Vis to help conceal his identity within Duat."
+    },
+    {
+      "term": "Tash",
+      "pronunciation": "TASH",
+      "definition": "The iunctus who Vis practices on with an Instruction Blade."
+    },
+    {
+      "term": "Zai",
+      "pronunciation": "z-eye",
+      "definition": "The assessor for dancers at the Festival of the Return."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Channel",
+      "definition": "An ancient device that can transport people from one location to another at great speeds."
+    },
+    {
+      "term": "Concurrence",
+      "definition": "The mysterious, ancient enemy who waged a war against humanity many thousands of years ago."
+    },
+    {
+      "term": "Gleaner",
+      "definition": "A iunctus under the control of Ka. Able to fly. Its dual stone and obsidian blades enable it to bring people back to life and then interrogate them."
+    },
+    {
+      "term": "Instruction Blade",
+      "definition": "The obsidian blades affixed to the Gleaners' arms. Enable the command of iunctii who are pierced through the heart with them."
+    },
+    {
+      "term": "Iunctus",
+      "pronunciation": "YOONK-toos",
+      "definition": "Someone who has been brought back from the dead."
+    },
+    {
+      "term": "Ka-shabti",
+      "pronunciation": "KAH SHAHB-tee",
+      "definition": "The \"Chosen of Ka,\" men and women who live in luxury in exchange for giving up their lives to become iunctii servants at a prime age."
+    },
+    {
+      "term": "Khepri",
+      "pronunciation": "KEH-pree",
+      "definition": "An amulet with a scarab on it, which acts as a powerful Vitaerium."
+    },
+    {
+      "term": "Mesektet",
+      "pronunciation": "MEH-sek-tet",
+      "definition": "An assassin who is paid to kill targets \"naturally,\" allowing them to be purchased by the wealthy when they become iunctii."
+    },
+    {
+      "term": "Nomarch",
+      "pronunciation": "NOH-mark",
+      "definition": "A collection of iunctii which act as a central guiding mind for controlling Duat."
+    },
+    {
+      "term": "Overseers",
+      "definition": "Black-clothed iunctii that enforce Ka's orders throughout Duat."
+    },
+    {
+      "term": "Westerner",
+      "definition": "A slang term in Duat for iunctii."
+    }
+  ],
+  "locations": [
+    {
+      "term": "Duat",
+      "pronunciation": "DOO-aht",
+      "definition": "A massive, completely enclosed city in the northern deserts."
+    },
+    {
+      "term": "Infernis",
+      "pronunciation": "in-FER-niss",
+      "definition": "The poison-filled river that runs through the heart of Duat."
+    },
+    {
+      "term": "Pyramid of Ka",
+      "pronunciation": "KAH",
+      "definition": "The glowing pyramid at the centre of Duat, which provides light to the city and changes hue in order to indicate the approximate time of day outside."
+    },
+    {
+      "term": "Temple of Ka",
+      "pronunciation": "KAH",
+      "definition": "The acres of structures surrounding the Pyramid of Ka, largely reserved for priests and Ka-shabti."
+    },
+    {
+      "term": "Neter-khertet",
+      "pronunciation": "NEH-ter KHER-tet",
+      "definition": "Everything west of the Infernis in Duat. Where the iunctii are housed."
+    },
+    {
+      "term": "Qabr",
+      "pronunciation": "KAHB-r",
+      "definition": "The collection of ancient tombs in which a small community hides from Ka."
+    }
+  ]
+}
